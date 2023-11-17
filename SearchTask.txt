@@ -1,0 +1,12 @@
+git config:is used to get and set user information
+
+git init: create a repodtry (Local repo) before pushing it to the remote repo on the github
+
+git merge: 
+
+          (git fetch) use to get files form remote repo(github) and (git merge) use to merge these files togther and save commits and 
+          (git pull) do the (git fetch)and (git merge) at once
+
+git remote: get the name of the remote repo(origin).
+
+thanks
